@@ -3,12 +3,24 @@ body {
 	color: black;
 	margin: 30px;
 }
+
+p {
+display: block;
+
+}
 h1, h2, h3, h4, h5, h6 {
 font-size: 20px;
-
-
+text-decoration: underline;
 }
 
 h1 {
 	text-align: center;
+
 }
+footer {
+	text-align: center;
+	font-size: 20px;
+	color: red;
+	font-family: cursive;
+	
+	}
