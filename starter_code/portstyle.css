@@ -4,27 +4,32 @@ body {
 	margin: 30px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-font-size: 20px;
-font-style: italic;
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: 20px;
+	font-style: italic;
 }
 
 h1 {
 	text-align: center;
 }
-footer {
 
+footer {
 	text-align: center;
 }
+
 input {
 	text-align: center;
 }
-form {
 
+form {
 	text-align: center;
 }
+
 .contact {
 	text-align: center;
 }
-
